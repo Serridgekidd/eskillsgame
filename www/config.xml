@@ -5,9 +5,9 @@
 		id="com.game.eskillsgame"
 		version="0.0.1">
 	<name>Serridgekidd</name>
-		<gap:platform name="android" />
-		<gap:platform name="ios" />
-		<preference name="orientation" value="portrait" />
-		<preference name="fullscreen" value="true" />
+		<Serridgekidds Eskills Memory Game />
+		<description>the eskills game was developed by Serridgekidds for ITGIRLS 2014!</description>
+		<gap:platform name="android"/>
+		<gap:platform name="iOS"/>
 		<icon src="icon.png" />
 </widget>
